@@ -8,14 +8,17 @@ My current mission is making LLM-generated UI and UX actually good. Not just ste
 
 I've worked around product and design for about 10 years, and this is the problem I keep coming back to: helping generated interfaces become more specific to the product, the domain, and the people using them every day.
 
-## about me
+## work
 
 - I started as an infosec intern mapping illegal resale of company materials on social media, then built the operation into a 5-person team I managed at 19. It recovered over R$40M for the company.
 - I later moved through web development, UI/UX, and product design, where I found my true passion as a design engineer.
 - At Hotmart, I helped shape HotPay, the payment gateway that now processes over US$10B per year.
 - At Direção Concursos, I was a founding engineer on an LMS 2.0 platform that combined video lessons, PDFs, question banks, and ML-powered learning data for millions of students preparing for public-sector exams back in 2017.
 - I run 3 monetized, automated YouTube channels and build the internal tools that keep them moving.
-- Currently building 🔒 Studio-606, a local production cockpit for turning video ideas into render-ready packages and learning from published performance. Personal for now.
+- Currently building 🔒 Studio-606, an operating system for automated video channels: ideas, research, scripts, scenes, audio, renders, metadata, and performance loops in one place. Personal for now.
+
+## about me
+
 - I'm semi-semi-semi-Polish. I was born in Poland and moved to Brazil when I was 2.
 - I'm painfully annoying about tiny details. The kind of thing most people miss, or decide is not worth fixing, will have me biting my nails until it is fixed. I consider this a flaw, not a virtue.
 - I grew up by the beach 🌊. I live in Brazil's capital now, and there isn't a day I don't miss surfing.
