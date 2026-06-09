@@ -9,7 +9,7 @@ My current mission is making LLM-generated UI and UX actually good. Models are g
 ## about me
 
 - I grew up by the beach 🌊. Now I live in Brasília, Brazil's capital, far from the ocean, and there isn't a day I don't miss surfing 🏄.
-- Fun fact: Brasília was intentionally designed in the shape of an airplane. https://i.imgur.com/fLRE1Ku.png
+- Fun fact: Brasília was intentionally designed in the shape of an airplane. [🛰️ Satellite image](https://i.imgur.com/fLRE1Ku.png)
 - Obsessed with nature, especially mountains & hiking, old custom bikes, and classic movies. Lately, I’ve been binge-watching Scandinavian cinema (it's so melancholic lol).
 - I have two cats and a Dalmatian.
 - I'm married to a PhD lab girl working in virology and plant pathology, and she's the smartest person in every room we walk into.
