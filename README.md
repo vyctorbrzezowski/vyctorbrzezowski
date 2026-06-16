@@ -4,8 +4,6 @@ I'm Vyctor, a Brazilian designer who ships code.
 
 I graduated in Computer Engineering from UnB. Funny enough, I ended up caring less about how computers are built than about the experience of the people using them. And recently, agents.
 
-My current mission is making LLM-generated UI and UX actually good. Models are getting very good at producing polished screens, but polish was never the hardest part of design. The hard part is knowing what the product is trying to become, what the user will actually feel, what should be removed, and which details make an interface belong to its context instead of looking like every other generated thing. After about 10 years around product and design, that is the judgment I keep trying to bring into AI-generated work.
-
 ## about me
 
 - I grew up by the beach 🌊. Now I live in Brasília, Brazil's capital, far from the ocean, and there isn't a day I don't miss surfing 🏄.
