@@ -1,21 +1,26 @@
-hello there! 🦖
+# hello there! 👋
 
-I'm Vyctor, a Brazilian designer who ships code.
+I'm **Vyctor**, a 🇧🇷 designer who ships code.
 
-I graduated in Computer Engineering from UnB. Funny enough, I ended up caring less about how computers are built than about the experience of the people using them. And recently, agents.
+Computer Engineering grad from UnB who, somewhere along the way, realized I cared less about how computers are built and more about **the experience of the people using them**. Lately, that includes agents too.
 
-## about me
+## what I do
 
-- I grew up by the beach 🌊. Now I live in Brasília, Brazil's capital, far from the ocean, and there isn't a day I don't miss surfing 🏄.
-- Fun fact: Brasília was intentionally designed in the shape of an airplane. [🛰️ Satellite image](https://i.imgur.com/fLRE1Ku.png)
-- Obsessed with nature, especially mountains & hiking, old custom bikes, and classic movies. Lately, I’ve been binge-watching Scandinavian cinema (it's so melancholic lol).
-- I have two cats and a Dalmatian.
-- I'm married to a PhD lab girl working in virology and plant pathology, and she's the smartest person in every room we walk into.
-- I'm painfully annoying about tiny details. The kind of thing most people miss, or decide is not worth fixing, will have me biting my nails until it is fixed. I consider this a flaw, not a virtue.
+- Design interfaces and experiences, then build them myself
+- Currently exploring the intersection of **design × AI agents**
 
-## contact
+## beyond the screen
 
-- email: [hi@vyctor.com.br](mailto:hi@vyctor.com.br)
-- LinkedIn: [brzezowski](https://www.linkedin.com/in/brzezowski)
-- Discord: `vyctorbrzezowski`
-- Twitter/X: [@vhbrzezowski](https://x.com/vhbrzezowski)
+- I grew up by the beach 🌊. Now I live in Brasília, Brazil's capital, famously far from the ocean, and there isn't a day I don't miss surfing 🏄
+- Fun fact: Brasília was intentionally designed in the shape of an airplane. [See it from space 🛰️](https://i.imgur.com/fLRE1Ku.png)
+- Obsessed with mountains & hiking, old custom bikes, and classic movies
+- I have two cats and a Dalmatian
+- Married to a PhD virologist & plant pathologist, the smartest person in every room we walk into
+
+## let's talk
+
+[![Email](https://img.shields.io/badge/email-hi%40vyctor.com.br-blue?style=flat-square&logo=gmail)](mailto:hi@vyctor.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brzezowski-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brzezowski)
+[![Twitter/X](https://img.shields.io/badge/X-%40vhbrzezowski-000000?style=flat-square&logo=x)](https://x.com/vhbrzezowski)
+
+Discord: `#vyctorbrzezowski`
