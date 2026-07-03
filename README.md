@@ -11,7 +11,7 @@ Computer Engineering grad from UnB who, somewhere along the way, realized I care
 
 ## beyond the screen
 
-- I grew up by the beach 🌊. Now I live in Brasília, Brazil's capital, famously far from the ocean, and there isn't a day I don't miss surfing 🏄
+- I grew up by the beach 🌊. Now I live in Brasília, Brazil's capital, far from the ocean, and there isn't a day I don't miss surfing 🏄
 - Fun fact: Brasília was intentionally designed in the shape of an airplane. [See it from space 🛰️](https://i.imgur.com/fLRE1Ku.png)
 - Obsessed with mountains & hiking, old custom bikes, and classic movies
 - I have two cats and a Dalmatian
