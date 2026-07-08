@@ -8,6 +8,7 @@ Computer Engineering grad from UnB who, somewhere along the way, realized I care
 
 - Design interfaces and experiences, then build them myself
 - Currently exploring the intersection of **design × AI agents**
+- 🦞 **[OpenClaw](https://github.com/openclaw/openclaw)** (maintainer) - The AI that really does things.
 
 ## beyond the screen
 
