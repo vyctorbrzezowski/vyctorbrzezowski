@@ -2,8 +2,6 @@
 
 I'm **Vyctor**, a 🇧🇷 designer who ships code.
 
-Computer Engineering grad from UnB who, somewhere along the way, realized I cared less about how computers are built and more about **the experience of the people using them**. Lately, that includes agents too.
-
 ## what I do
 
 - Design interfaces and experiences, then build them myself
@@ -23,5 +21,4 @@ Computer Engineering grad from UnB who, somewhere along the way, realized I care
 [![Email](https://img.shields.io/badge/email-hi%40vyctor.com.br-blue?style=flat-square&logo=gmail)](mailto:hi@vyctor.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brzezowski-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brzezowski)
 [![Twitter/X](https://img.shields.io/badge/X-%40vhbrzezowski-000000?style=flat-square&logo=x)](https://x.com/vhbrzezowski)
-
-Discord: `#vyctorbrzezowski`
+[![Discord](https://img.shields.io/badge/Discord-vyctorbrzezowski-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/SEU_USER_ID)
