@@ -1,20 +1,12 @@
 # hello there! 👋
 
-I'm **Vyctor**, a 🇧🇷 designer who ships code.
+I'm **Vyctor**, a 🇧🇷 product designer who ships code.
 
 ## what I do
 
 - Design interfaces and experiences, then build them myself
 - Currently exploring the intersection of **design × AI agents**
 - 🦞 **[OpenClaw](https://github.com/openclaw/openclaw)** (maintainer) - The AI that really does things.
-
-## beyond the screen
-
-- I grew up by the beach 🌊. Now I live in Brasília, Brazil's capital, far from the ocean, and there isn't a day I don't miss surfing 🏄
-- Fun fact: Brasília was intentionally designed in the shape of an airplane. [See it from space 🛰️](https://i.imgur.com/fLRE1Ku.png)
-- Obsessed with mountains & hiking, old custom bikes, and classic movies
-- I have two cats and a Dalmatian
-- Married to a PhD virologist & plant pathologist, the smartest person in every room we walk into
 
 ## let's talk
 
